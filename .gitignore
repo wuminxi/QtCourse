@@ -1,0 +1,7 @@
+release/
+debug/
+*.o
+*.exe
+Makefile
+Makefile.*
+*.pro.user
