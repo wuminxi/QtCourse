@@ -4,7 +4,7 @@ debug/
 *.exe
 Makefile
 Makefile.*
-*.pro.userui_qwmainwind.h
+*.pro.user
+ui_qwmainwind.h
 samp2_4_resource.rc
 .qmake.stash
-
